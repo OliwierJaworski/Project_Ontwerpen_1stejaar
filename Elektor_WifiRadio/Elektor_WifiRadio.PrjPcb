@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HEZVVAHH
 
 [Document5]
-DocumentPath=..\..\PCB-models\TSOP34338\AltiumDesigner\PCB1.PcbDoc
+DocumentPath=ComputeUnit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,7 +132,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XOLFDNED
+DocumentUniqueId=YIWHRERQ
 
 [Configuration1]
 Name=Sources
