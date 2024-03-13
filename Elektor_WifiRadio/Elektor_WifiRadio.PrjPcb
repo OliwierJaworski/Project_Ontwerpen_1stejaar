@@ -134,6 +134,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIWHRERQ
 
+[Document6]
+DocumentPath=DisplayUnit.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HACKIAYG
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Elektor_WifiRadio\Elektor_WifiRadio.nsx
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -265,6 +286,10 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=Record=AdvSimNetlistView|SimulationName=Mixed Sim|ProfileId=WBOUMXHV|OldCfgLoaded=True|DocumentPath=C:\Users\oliwi\Desktop\Project_Ontwerpen_1stejaar\Elektor_WifiRadio\ComputeUnit.SchDoc
 
 [OutputGroup3]
 Name=Documentation Outputs
