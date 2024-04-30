@@ -152,23 +152,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YGZGBRZT
 
 [Document7]
-DocumentPath=OLD_IDEA.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JQSWQMMD
-
-[Document8]
 DocumentPath=REDESIGN.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,6 +167,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJIYOOUE
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Project\Design Rule Check - REDESIGN.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
