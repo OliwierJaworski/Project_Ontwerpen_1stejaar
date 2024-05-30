@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [REDESIGN.PcbDoc]
+   Generated File[REDESIGN.TXT]
+   Generated File[REDESIGN.LDP]
+   Generated File[REDESIGN.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:04:42 On 09/05/2024

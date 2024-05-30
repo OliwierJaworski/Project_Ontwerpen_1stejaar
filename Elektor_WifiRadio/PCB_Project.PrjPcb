@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NJIYOOUE
 
 [Document8]
-DocumentPath=Osc_Job.OutJob
+DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -187,6 +187,386 @@ DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PCB_Project\Design Rule Check - REDESIGN.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for PCB_Project\NC Drill\REDESIGN-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for PCB_Project\NC Drill\REDESIGN-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\NC Drill\REDESIGN.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for PCB_Project\NC Drill\REDESIGN.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for PCB_Project\NC Drill\REDESIGN.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN.REP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\NC Drill\REDESIGN.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for PCB_Project\NC Drill\REDESIGN.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Board_Outline.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Board_Outline.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Board_Outline.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Bottom_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Bottom_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Bottom_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Bottom_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Bottom_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Bottom_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Bottom_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Bottom_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Bottom_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Bottom_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Bottom_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Bottom_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Other.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Other_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Top_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Top_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Top_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for Free Documents\GerberX2\REDESIGN_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for PCB_Project\Gerber\REDESIGN_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for PCB_Project\GerberX2\REDESIGN_Top_Courtyard.gbr
 DItemRevisionGUID=
 
 [Configuration1]
